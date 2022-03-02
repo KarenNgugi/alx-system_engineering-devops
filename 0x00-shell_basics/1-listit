@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo $(ls)
+=======
+ls $"\n"
+>>>>>>> db07c8d178aebdc0908b258e775d18f19a037872
