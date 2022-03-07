@@ -1,2 +1,2 @@
 $!/bin/bash
-(echo $(cut -c 1 | tr --delete '\n')) 
+cut -c 1 poem.txt | tr -d '\n' && echo
