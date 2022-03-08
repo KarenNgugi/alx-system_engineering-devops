@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | sed 'n;d'
+ls | awk 'NR % 2 {print}'
