@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | awk 'NR % 2 {print}'
+paste -d, - - | cut -d, -f1
