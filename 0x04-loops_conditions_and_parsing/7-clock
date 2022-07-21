@@ -2,7 +2,7 @@
 # display the time for 0-12 hours and 1-59 minutes using a while loop
 hr=0
 min=1
-while (( hr < 12 ))
+while (( hr <= 12 ))
 do
 	echo "Hour:" $hr
 	(( min = 1 ))
