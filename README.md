@@ -1,12 +1,12 @@
 # System Engineering and DevOps (shell)
 
 ## Topics covered
-### 0. Basics
-### 1. Permissions
-### 2. I/O, redirections, and filters
-### 3. Init files, variables, and expansions
-### 4. Loops, conditions, and parsing
-### 5. Processes & signals
-### 6. Regular expression
-### 7. Networking basics #0
-### 8. Networking basics #1
+### 0. [Basics](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x00-shell_basics)
+### 1. [Permissions](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x01-shell_permissions)
+### 2. [I/O, redirections, and filters](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x02-shell_redirections)
+### 3. [Init files, variables, and expansions](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)
+### 4. [Loops, conditions, and parsing](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x04-loops_conditions_and_parsing)
+### 5. [Processes & signals](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x05-processes_and_signals)
+### 6. [Regular expression](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x06-regular_expressions)
+### 7. [Networking basics #0](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x07-networking_basics)
+### 8. [Networking basics #1](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x08-networking_basics_2)
