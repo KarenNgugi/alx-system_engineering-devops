@@ -10,3 +10,4 @@
 ### 6. [Regular expression](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x06-regular_expressions)
 ### 7. [Networking basics #0](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x07-networking_basics)
 ### 8. [Networking basics #1](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x08-networking_basics_2)
+### 9. [eb infrastructure design](https://github.com/KarenNgugi/alx-system_engineering-devops/tree/main/0x09-web_infrastructure_design)
