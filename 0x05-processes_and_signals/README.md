@@ -55,25 +55,40 @@ Write a Bash script that displays the PID, along with the process name, of proce
 
 **File:** `3-show_your_bash_pid_made_easy`
 
-### 
+### 4. To infinity and beyond
+Write a Bash script that displays `To infinity and beyond` indefinitely.
+- In between each iteration of the loop, add a `sleep 2`
 
-**File:** ``
+**File:** `4-to_infinity_and_beyond`
 
-### 
+### 5. Don't stop me now!
+We stopped our `4-to_infinity_and_beyond` process using `ctrl+c` in the previous task, there is actually another way to do this.
 
-**File:** ``
+Write a Bash script that stops `4-to_infinity_and_beyond` process.
+- You must use `kill`
 
-### 
+**File:** `5-dont_stop_me_now`
 
-**File:** ``
+### 6. Stop me if you can
+Write a Bash script that stops `4-to_infinity_and_beyond` process.
+- You cannot use `kill` or `killall`
 
-### 
+**File:** `6-stop_me_if_you_can`
 
-**File:** ``
+### 7. Highlander
+Write a Bash script that displays:
+- `To infinity and beyond` indefinitely
+- With a `sleep 2` in between each iteration
+- `I am invincible!!!` when receiving a SIGTERM signal
 
-### 
+Make a copy of your `6-stop_me_if_you_can` script, name it `67-stop_me_if_you_can`, that kills the `7-highlander` process instead of the `4-to_infinity_and_beyond` one.
 
-**File:** ``
+**File:** `7-highlander`
+
+### 8. Beheaded process
+Write a Bash script that kills the process `7-highlander`.
+
+**File:** `8-beheaded_process`
 
 ### 
 
