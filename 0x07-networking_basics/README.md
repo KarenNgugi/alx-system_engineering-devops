@@ -37,6 +37,8 @@ Commands covered:
 - Your Bash script must pass `Shellcheck` without any error
 - The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
 - The second line of all your Bash scripts should be a comment explaining what is the script doing
+* **Github repository:** `alx-system_engineering-devops`
+* **Directory:** `0x07-networking_basics`
 
 ## Project Tasks
 ### 0. OSI model
