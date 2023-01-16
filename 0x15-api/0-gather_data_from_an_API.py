@@ -15,7 +15,7 @@ if __name__ == "__main__":
     emp_name = requests.get(emp_data).json()['name']
 
     # get total number of tasks
-    emp_tasks_url = "{}/{}/todos".format(original_utl, emp_id)
+    emp_tasks_url = "{}/{}/todos".format(original_url, emp_id)
     emp_tasks = requests.get(emp_tasks_url).json()
     number_tasks = len(emp_tasks)
 
