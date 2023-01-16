@@ -26,7 +26,7 @@ if __name__ == "__main__":
             tasks_completed += 1
 
     # output
-    print("Employee {} is done with tasks ({}/{}):".format(emp_name,
+    print("Employee {} is done with tasks({}/{}):".format(emp_name,
                                                            tasks_completed,
                                                            number_tasks))
     for task in emp_tasks:
