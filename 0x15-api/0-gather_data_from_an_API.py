@@ -31,4 +31,4 @@ if __name__ == "__main__":
                                                           number_tasks))
     for task in emp_tasks:
         if task["completed"]:
-            print(task["title"])
+            print("\t", task["title"])
