@@ -10,7 +10,7 @@ from sys import argv
 if __name__ == "__main__":
     # get employee name
     original_url = "https://jsonplaceholder.typicode.com/users"
-    emp_id = int(argv[1])
+    emp_id = argv[1]
     emp_data = "{}/{}".format(original_url, emp_id)
     emp_name = requests.get(emp_data).json()['name']
 
