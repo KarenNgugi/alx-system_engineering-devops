@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-
+"""
+Use this REST API to return employee information:
+https://jsonplaceholder.typicode.com/
+"""
 
 import requests
 from sys import argv
